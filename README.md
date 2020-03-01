@@ -13,6 +13,10 @@ Execute the script form th git_scripts repository
 
 Enter your username and password when git asks so.
 
+## Improvement
+
+Use absolute path to deal with all the meli-melo.
+
 ## Bug
 
 swap_mails is correctly pass as an argument but it seems that it cant iterate
