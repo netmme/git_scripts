@@ -11,7 +11,7 @@ Execute the script form th git_scripts repository
 
 `rename-mails/renameall.sh USERNAME CORRECT_USERNAME CORRECT_EMAIL`
 
-Enter your username and password and git asks so.
+Enter your username and password when git asks so.
 
 ## Bug
 
